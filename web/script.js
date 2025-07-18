@@ -29,7 +29,7 @@ document.addEventListener('DOMContentLoaded', () => {
       `;
       hutangTableBody.appendChild(row);
     });
-    totalHutangDiv.textContent = `> Total Uang di Luar: Rp ${totalBelumLunas.toLocaleString('id-ID')}`;
+    totalHutangDiv.textContent = `> Total uang dipinjam: Rp ${totalBelumLunas.toLocaleString('id-ID')}`;
   }
 
   function simpanHutang(data) {
