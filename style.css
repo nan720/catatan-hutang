@@ -1,0 +1,28 @@
+* {
+  font-size: 14px;
+  font-family: "Poppins", sans-serif;
+}
+.table-container {
+  overflow-x: auto;
+}
+.table-container::-webkit-scrollbar {
+  display: none;
+}
+.table {
+  min-width: 380px;
+}
+h1 {
+  font-family: "Josefin Slab", serif;
+  color: #0e1111;
+}
+#totalHutang {
+  font-size: 12px;
+  font-family: monospace;
+  margin-top: 10px;
+}
+#tanggalSekarang {
+  font-size: 12px;
+  font-family: monospace;
+  font-weight: bold;
+  text-align: right;
+}
