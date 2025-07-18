@@ -10,7 +10,7 @@
 
 ## 📸 Screenshot
 
-![Screenshot](screenshot.png)
+![Screenshot](1000040966.png)
 
 ---
 
